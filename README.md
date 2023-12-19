@@ -15,8 +15,9 @@ This project was inspired by the original [privateGPT](https://github.com/imarti
 
 Note: Right now, This project has been configured to run on Apple Silicon (M1//M2) only.
 
-## Architecture 🛠️
-![architecture diagram](architecture.png)
+## Architecture 
+![architecture diagram](https://github.com/ayushsatyam146/opc-docs-gpt/assets/55888723/ac99b232-d154-4209-b2c4-b56e8300e011)
+
 
 ## Built Using 🧩
 - [LangChain](https://github.com/hwchase17/langchain)
