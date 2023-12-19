@@ -14,6 +14,10 @@ By selecting the right local models and the power of `LangChain` we are running 
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT).
 
 Note: Right now, This project has been configured to run on Apple Silicon (M1//M2) only.
+
+## Architecture 🛠️
+![architecture diagram](architecture.png)
+
 ## Built Using 🧩
 - [LangChain](https://github.com/hwchase17/langchain)
 - [HuggingFace LLMs](https://huggingface.co/models)
