@@ -1,0 +1,63 @@
+// Module included in the following assemblies:
+//
+// * scalability_and_performance/ztp_far_edge/ztp-preparing-the-hub-cluster.adoc
+// * telco_ref_design_specs/ran/telco-ran-ref-software-artifacts.adoc
+
+:_mod-docs-content-type: REFERENCE
+[id="ztp-telco-ran-software-versions_{context}"]
+= Telco RAN DU {product-version} validated software components
+
+The Red Hat telco RAN DU {product-version} solution has been validated using the following Red Hat software products for {product-title} managed clusters and hub clusters.
+
+.Telco RAN DU managed cluster validated software components
+[cols=2*, width="80%", options="header"]
+|====
+|Component
+|Software version
+
+|Managed cluster version
+|4.14
+
+|Cluster Logging Operator
+|5.7
+
+|Local Storage Operator
+|4.14
+
+|PTP Operator
+|4.14
+
+|SRIOV Operator
+|4.14
+
+|Node Tuning Operator
+|4.14
+
+|Logging Operator
+|4.14
+
+|SRIOV-FEC Operator
+|2.7
+|====
+
+.Hub cluster validated software components
+[cols=2*, width="80%", options="header"]
+|====
+|Component
+|Software version
+
+|Hub cluster version
+|4.14
+
+|{ztp} plugin
+|4.14
+
+|{rh-rhacm-first}
+|2.8, 2.9
+
+|{gitops-title}
+|1.9
+
+|{cgu-operator-first}
+|4.14
+|====

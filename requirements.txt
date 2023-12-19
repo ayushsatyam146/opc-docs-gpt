@@ -1,0 +1,30 @@
+# Natural Language Processing
+langchain==0.0.267
+chromadb==0.4.6
+pdfminer.six==20221105
+InstructorEmbedding
+sentence-transformers
+faiss-cpu
+huggingface_hub
+transformers
+autoawq
+protobuf==3.20.3
+auto-gptq==0.2.2
+docx2txt
+unstructured
+unstructured[pdf]
+
+# Utilities
+urllib3==1.26.6
+accelerate
+bitsandbytes
+click
+flask
+requests
+
+# Streamlit related
+streamlit
+Streamlit-extras
+
+# Excel File Manipulation
+openpyxl
